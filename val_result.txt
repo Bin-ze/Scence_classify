@@ -1,0 +1,16 @@
+#Totoal Images 1619
+#Class 51
+Recognition accuracy =91.7%(1484/1619) run_time 86.59s
+Finished validation#Totoal Images 1619
+#Class 51
+Recognition accuracy =91.7%(1484/1619) run_time 82.87s
+Finished validation#Totoal Images 1619
+#Class 51
+Recognition accuracy =91.7%(1484/1619) run_time 87.31s
+Finished validation#Totoal Images 16401
+#Class 51
+Recognition accuracy =99.1%(16254/16401) run_time 952.64s
+Finished validation#Totoal Images 16401
+#Class 51
+Recognition accuracy =92.1%(16254/16401) run_time 838.15s
+Finished validation
